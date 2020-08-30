@@ -1,6 +1,7 @@
 # Colette Burke Prioject#2
 # This is my time creating a python script
 
+# Imports
 import time
 import pandas as pd
 import numpy as np
@@ -41,7 +42,6 @@ def load_data(city, month, day):
         df - Pandas DataFrame containing city data filtered by month and day
     """
 
-
     return df
 
 
@@ -52,7 +52,6 @@ def time_stats(df):
     start_time = time.time()
 
     # TO DO: display the most common month
-
 
     # TO DO: display the most common day of week
 
