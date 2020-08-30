@@ -1,5 +1,8 @@
 ### Date created
-August 30, 2020.
+August 30, 2020
+
+### Author
+Colette Burke
 
 ### Project Title
 cBurke Github Project
